@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Task 8</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_password">Password must be atleast 6 characters</string>
 </resources>
